@@ -1,0 +1,2 @@
+# Small package showing finenuting a VGG network on DUNE data
+The network can be used for to measure Learned Perceptual Image Patch Similarity [LPIPS](https://richzhang.github.io/PerceptualSimilarity/) on LArTPC data
